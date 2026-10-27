@@ -1,0 +1,6 @@
+{
+  "name": "DevPulse: Coding Habit & Defect Analytics",
+  "description": "Data-driven developer analytics landing page template connecting active coding duration and cognitive fatigue with predictive software defect forecasting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
